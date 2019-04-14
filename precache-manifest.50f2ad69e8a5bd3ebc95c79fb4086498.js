@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "6686848f8d43527f2f48",
-    "url": "/static/css/main.0cdbeee8.chunk.css"
+    "revision": "8a62a39578476d4eb326",
+    "url": "/static/css/main.e409ec2e.chunk.css"
   },
   {
-    "revision": "6686848f8d43527f2f48",
-    "url": "/static/js/main.524fa291.chunk.js"
+    "revision": "8a62a39578476d4eb326",
+    "url": "/static/js/main.95babdbd.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -32,8 +32,8 @@ self.__precacheManifest = [
     "url": "/static/media/resume.d30a95ec.svg"
   },
   {
-    "revision": "1560e524132aff41b304dfcc3eb23917",
-    "url": "/static/media/resume.1560e524.pdf"
+    "revision": "4c2900c97e9519341aceb43608b2b2da",
+    "url": "/static/media/resume.4c2900c9.pdf"
   },
   {
     "revision": "419bc5b9df1f32969a65d557c67024a5",
@@ -108,24 +108,20 @@ self.__precacheManifest = [
     "url": "/static/media/Forza.3fe3dee1.png"
   },
   {
-    "revision": "dcc1370090a748ae5ebb8a801eb1a431",
-    "url": "/static/media/Arkiv-Regular.dcc13700.eot"
+    "revision": "8b4bd6b186344af7ab8fbc2d25530ab8",
+    "url": "/static/media/Arkiv-Regular.8b4bd6b1.woff2"
   },
   {
     "revision": "46782a91f28d2f432f2bd3b9686178ec",
     "url": "/static/media/Arkiv-Regular.46782a91.woff"
   },
   {
-    "revision": "8b4bd6b186344af7ab8fbc2d25530ab8",
-    "url": "/static/media/Arkiv-Regular.8b4bd6b1.woff2"
-  },
-  {
-    "revision": "7aa63d053e479012fa4e94828077034c",
-    "url": "/static/media/Arkiv-Light.7aa63d05.woff2"
-  },
-  {
     "revision": "aec5403b7dcd2760971fc3e2fbf72eff",
     "url": "/static/media/Arkiv-Light.aec5403b.eot"
+  },
+  {
+    "revision": "dcc1370090a748ae5ebb8a801eb1a431",
+    "url": "/static/media/Arkiv-Regular.dcc13700.eot"
   },
   {
     "revision": "e5df6a061f24d278b5d114562c2a0d3e",
@@ -134,6 +130,10 @@ self.__precacheManifest = [
   {
     "revision": "fa853fe921c414bf36188494a6d9aff4",
     "url": "/static/media/Arkiv-Bold.fa853fe9.woff"
+  },
+  {
+    "revision": "7aa63d053e479012fa4e94828077034c",
+    "url": "/static/media/Arkiv-Light.7aa63d05.woff2"
   },
   {
     "revision": "e8ceea309656d0da078a75ad93e3056c",
@@ -148,7 +148,7 @@ self.__precacheManifest = [
     "url": "/static/media/MasterThesis2.094c45d8.png"
   },
   {
-    "revision": "e7289cb8be14462abf0a3beeeb76c7f9",
+    "revision": "7b223a9a9e1e9aba65fc729e64f2763c",
     "url": "/index.html"
   }
 ];

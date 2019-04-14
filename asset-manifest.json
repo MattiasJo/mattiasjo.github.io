@@ -1,15 +1,15 @@
 {
-  "main.css": "/static/css/main.0cdbeee8.chunk.css",
-  "main.js": "/static/js/main.524fa291.chunk.js",
-  "main.js.map": "/static/js/main.524fa291.chunk.js.map",
+  "main.css": "/static/css/main.e409ec2e.chunk.css",
+  "main.js": "/static/js/main.95babdbd.chunk.js",
+  "main.js.map": "/static/js/main.95babdbd.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
   "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
   "static/js/2.787e2f34.chunk.js": "/static/js/2.787e2f34.chunk.js",
   "static/js/2.787e2f34.chunk.js.map": "/static/js/2.787e2f34.chunk.js.map",
   "index.html": "/index.html",
-  "precache-manifest.544694e136cbfcfa6d82af0c3c42238b.js": "/precache-manifest.544694e136cbfcfa6d82af0c3c42238b.js",
+  "precache-manifest.50f2ad69e8a5bd3ebc95c79fb4086498.js": "/precache-manifest.50f2ad69e8a5bd3ebc95c79fb4086498.js",
   "service-worker.js": "/service-worker.js",
-  "static/css/main.0cdbeee8.chunk.css.map": "/static/css/main.0cdbeee8.chunk.css.map",
+  "static/css/main.e409ec2e.chunk.css.map": "/static/css/main.e409ec2e.chunk.css.map",
   "static/media/App.css": "/static/media/Arkiv-Regular.dcc13700.eot",
   "static/media/Forza.png": "/static/media/Forza.3fe3dee1.png",
   "static/media/Forza1.png": "/static/media/Forza1.8a13ae9e.png",
@@ -33,6 +33,6 @@
   "static/media/muffin-video.mp4": "/static/media/muffin-video.d4b0121c.mp4",
   "static/media/muffin.jpg": "/static/media/muffin.af69c9eb.jpg",
   "static/media/muffin1.jpg": "/static/media/muffin1.74bbece8.jpg",
-  "static/media/resume.pdf": "/static/media/resume.1560e524.pdf",
+  "static/media/resume.pdf": "/static/media/resume.4c2900c9.pdf",
   "static/media/resume.svg": "/static/media/resume.d30a95ec.svg"
 }
