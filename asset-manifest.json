@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.e115b7a0.chunk.css",
-    "main.js": "/static/js/main.d61017ea.chunk.js",
-    "main.js.map": "/static/js/main.d61017ea.chunk.js.map",
+    "main.js": "/static/js/main.e209533e.chunk.js",
+    "main.js.map": "/static/js/main.e209533e.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.b83279d6.js",
     "runtime-main.js.map": "/static/js/runtime-main.b83279d6.js.map",
-    "static/js/2.b74ba2e7.chunk.js": "/static/js/2.b74ba2e7.chunk.js",
-    "static/js/2.b74ba2e7.chunk.js.map": "/static/js/2.b74ba2e7.chunk.js.map",
+    "static/js/2.c58f37d6.chunk.js": "/static/js/2.c58f37d6.chunk.js",
+    "static/js/2.c58f37d6.chunk.js.map": "/static/js/2.c58f37d6.chunk.js.map",
     "index.html": "/index.html",
     "static/css/main.e115b7a0.chunk.css.map": "/static/css/main.e115b7a0.chunk.css.map",
-    "static/js/2.b74ba2e7.chunk.js.LICENSE.txt": "/static/js/2.b74ba2e7.chunk.js.LICENSE.txt",
+    "static/js/2.c58f37d6.chunk.js.LICENSE.txt": "/static/js/2.c58f37d6.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/Arkiv-Regular.ed068924.eot",
     "static/media/DuoHockeyVMDemo.269059ae.mp4": "/static/media/DuoHockeyVMDemo.269059ae.mp4",
     "static/media/Forza.58db368c.png": "/static/media/Forza.58db368c.png",
@@ -37,8 +37,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.b83279d6.js",
-    "static/js/2.b74ba2e7.chunk.js",
+    "static/js/2.c58f37d6.chunk.js",
     "static/css/main.e115b7a0.chunk.css",
-    "static/js/main.d61017ea.chunk.js"
+    "static/js/main.e209533e.chunk.js"
   ]
 }
